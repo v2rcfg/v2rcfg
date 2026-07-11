@@ -1,4 +1,4 @@
-avless://%40v2rcfg@0.0.0.0:1?security=&encryption=none&headerType=none&type=tcp#Public%20collected%20configs%20%F0%9F%86%93%E2%9C%85
+vless://%40v2rcfg@0.0.0.0:1?security=&encryption=none&headerType=none&type=tcp#Public%20collected%20configs%20%F0%9F%86%93%E2%9C%85
 vless://%40v2rcfg@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#Updated%20at%3A%2020%2FTir%20-%2008%3A30%20%F0%9F%97%93%EF%B8%8F%E2%8C%9A
 vless://%40v2rcfg@0.0.0.0:1?security=&encryption=none&headerType=none&type=tcp#Telegram%20channel%20%F0%9F%86%94%3A%20%40v2rcfg
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
