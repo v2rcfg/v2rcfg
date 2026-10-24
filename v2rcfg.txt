@@ -1,3 +1,4 @@
 hysteria2://t6kmtlithdzy9sg1@ajxurfsy.zibayeman.com:38752?security=tls&obfs=salamander&alpn=h2%2Chttp%2F1.1%2Ch3&obfs-password=tvevf6j7p8gquduy&insecure=0&sni=ajxurfsy.zibayeman.com#%F0%9F%87%A8%F0%9F%87%A6%20CA%201%20%28Toronto%29
+vless://cfd15a18-aa2e-4fc0-83bf-e7047f631ab0@95.179.161.146:443?path=%2F6d7735fb&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=bot-exit-zr3pof.samanidempire.org&type=ws&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20DE%201%20%28Frankfurt%29
 hysteria2://20d9044ed6ce67be1dc5fd9d762edb50@ai.irdmc.com:30000?security=tls&obfs=salamander&alpn=h3&obfs-password=Join-JavidnamanIran-on-Telegram&insecure=0&sni=ai.irdmc.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%201%20%28Amsterdam%29
 hysteria2://mf5u0bk74eo3h7sm@46hk9n71.easyiran.org:42204?security=tls&obfs=salamander&alpn=h2%2Chttp%2F1.1%2Ch3&obfs-password=vqjdu83m1xghlc5v&insecure=0&sni=46hk9n71.easyiran.org#%F0%9F%87%BA%F0%9F%87%B8%20US%201%20%28Piscataway%29
